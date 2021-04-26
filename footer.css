@@ -1,0 +1,15 @@
+#ali{
+    color: white;
+}
+
+#but_contact_foot{
+    width:80px;
+    height:40px;
+    border: 1px white solid;
+    padding: 5px;
+    margin:5px;
+    background-color: #f1f1f1;
+}
+#but_contact_foot:hover{
+    background-color: #e1e1e2;
+}
